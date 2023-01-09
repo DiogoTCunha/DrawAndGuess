@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DRAG</string>
+    <string name="player_count">Número de jogadores</string>
+    <string name="number_of_rounds">Número de rondas</string>
+    <string name="number_of_players_hint">Insira o número de jogadores</string>
+    <string name="number_of_rounds_hint">Insira o número de rondas </string>
+    <string name="start">Jogo Local</string>
+    <string name="not_enough_players_error"> Devem existir no mínimo 5 jogadores</string>
+    <string name="not_enough_rounds_error"> Deve existir no mínimo 1 ronda</string>
+    <string name="no_rounds_input_error"> Introduz o número de rondas (Mínimo: 1)</string>
+    <string name="no_players_input_error"> Introduz o número de jogadores (Mínimo: 5)</string>
+    <string name="no_lobby_name_input_error">Introduz um nome para a sala</string>
+    <string name="no_word_input_error"> Introduz uma palavra</string>
+    <string name="describe_the_drawing">Descreve o desenho</string>
+    <string name="line">Linha</string>
+    <string name="rect">Rectângulo</string>
+    <string name="circle">Círculo</string>
+    <string name="free">Livre</string>
+    <string name="next">Seguinte</string>
+    <string name="undo">Desfazer</string>
+    <string name="player">Jogador</string>
+    <string name="round">Ronda</string>
+    <string name="startonline">Criar Jogo</string>
+    <string name="findgame">Encontrar Jogo</string>
+    <string name="error_creating_lobby">Error creating lobby</string>
+    <string name="join_lobby_dialog_title">Juntar-se a %s\'s ?</string>
+    <string name="join_lobby_dialog_ok">Juntar</string>
+    <string name="join_lobby_cancel">Cancelar</string>
+    <string name="lobby_name_text">Nome da sala</string>
+    <string name="lobby_name_hint">Insira o nome da sala (apenas para online)</string>
+    <string name="start_game_lobby">Começar jogo</string>
+    <string name="lobby_list">Lista de salas</string>
+
+</resources>

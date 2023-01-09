@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">DRAG</string>
+    <string name="player_count">Number of players</string>
+    <string name="number_of_rounds">Number of rounds</string>
+    <string name="number_of_players_hint">Insert desired number of players</string>
+    <string name="number_of_rounds_hint">Insert desired number of rounds</string>
+    <string name="start">Play Locally</string>
+    <string name="not_enough_players_error"> There must be at least 5 players</string>
+    <string name="not_enough_rounds_error"> There must be at least 1 round</string>
+    <string name="no_rounds_input_error"> Please introduce how many rounds you want (Minimum: 1)</string>
+    <string name="no_players_input_error"> Please introduce how many players you want (Minimum: 5)</string>
+    <string name="no_lobby_name_input_error">Please introduce a name for your lobby</string>
+    <string name="no_word_input_error"> Please write a word</string>
+    <string name="describe_the_drawing">Describe The Drawing</string>
+    <string name="line">Line</string>
+    <string name="rect">Rect</string>
+    <string name="circle">Circle</string>
+    <string name="free">Free</string>
+    <string name="next">Next</string>
+    <string name="undo">Undo</string>
+    <string name="player">Player</string>
+    <string name="round">Round</string>
+    <string name="startonline">Create Game</string>
+    <string name="findgame">Find Game</string>
+    <string name="error_creating_lobby">Error creating lobby</string>
+    <string name="join_lobby_dialog_title">Join %s\'s ?</string>
+    <string name="join_lobby_dialog_ok">Join</string>
+    <string name="join_lobby_cancel">Cancel</string>
+    <string name="lobby_name_text">Lobby name</string>
+    <string name="lobby_name_hint">Insert lobby name (online only)</string>
+    <string name="start_game_lobby">Start game</string>
+    <string name="lobby_list">Lobby List</string>
+
+</resources>
